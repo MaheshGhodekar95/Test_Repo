@@ -8,7 +8,9 @@ using System.Threading.Tasks;
 namespace ConsoleApp1
 {
     class Progra
+    // comment
     {
+
         public abstract class LibraryItem
         {
             public int Id { get; set; }
