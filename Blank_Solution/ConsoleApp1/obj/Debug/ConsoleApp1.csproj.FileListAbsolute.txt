@@ -1,0 +1,7 @@
+F:\git_Practice\Test_Repo\Blank_Solution\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\git_Practice\Test_Repo\Blank_Solution\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\git_Practice\Test_Repo\Blank_Solution\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\git_Practice\Test_Repo\Blank_Solution\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\git_Practice\Test_Repo\Blank_Solution\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\git_Practice\Test_Repo\Blank_Solution\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\git_Practice\Test_Repo\Blank_Solution\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
