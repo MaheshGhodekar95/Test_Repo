@@ -1,0 +1,7 @@
+F:\git_Practice\Test_Repo\Test_Console\Test_Console\bin\Debug\Test_Console.exe.config
+F:\git_Practice\Test_Repo\Test_Console\Test_Console\bin\Debug\Test_Console.exe
+F:\git_Practice\Test_Repo\Test_Console\Test_Console\bin\Debug\Test_Console.pdb
+F:\git_Practice\Test_Repo\Test_Console\Test_Console\obj\Debug\Test_Console.csproj.AssemblyReference.cache
+F:\git_Practice\Test_Repo\Test_Console\Test_Console\obj\Debug\Test_Console.csproj.CoreCompileInputs.cache
+F:\git_Practice\Test_Repo\Test_Console\Test_Console\obj\Debug\Test_Console.exe
+F:\git_Practice\Test_Repo\Test_Console\Test_Console\obj\Debug\Test_Console.pdb
