@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Border BorderThickness="10" HorizontalAlignment="Left" Height="295" Margin="10,55,0,0" VerticalAlignment="Top" Width="755" BorderBrush="#FFD90E0E"/>
+
     </Grid>
 </Window>
